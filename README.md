@@ -3,6 +3,6 @@
 | PROJECTS | Projects GOALS |
 | --- | --- |
 |Introducing Advanced Deep Learning with Keras | `Multilayer Perceptron (MLP)` Convolutional Neural Network (CNN) ` Recurrent Neural Network (RNN)` |
-| Deep Neural Networks | `Applying filters to denoise different types of noise in an image` Improving image contrast with histogram equalization `Implementing histogram matching`|
+| Deep Neural Networks | |
 | Autoencoders | |
 | Generative Adversarial Networks (GANs) ||
